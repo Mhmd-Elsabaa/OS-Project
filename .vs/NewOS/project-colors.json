@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aba0a1a2-424d-4943-ba5a-c19c49975738": {
+      "ProjectGuid": "aba0a1a2-424d-4943-ba5a-c19c49975738",
+      "DisplayName": "NewOS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\_MyProject\C++\NewOS\NewOS\Source.cpp(67,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\_MyProject\C++\NewOS\NewOS\Source.cpp(178,11): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 7 has type 'LONGLONG'
+D:\_MyProject\C++\NewOS\NewOS\Source.cpp(178,11): message : consider using '%lld' in the format string
+D:\_MyProject\C++\NewOS\NewOS\Source.cpp(178,11): message : consider using '%Id' in the format string
+D:\_MyProject\C++\NewOS\NewOS\Source.cpp(178,11): message : consider using '%I64d' in the format string
+D:\_MyProject\C++\NewOS\NewOS\Source.cpp(558,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  NewOS.vcxproj -> D:\_MyProject\C++\NewOS\x64\Debug\NewOS.exe
